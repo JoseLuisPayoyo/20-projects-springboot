@@ -43,5 +43,4 @@ Este proyecto pertenece al **Módulo 1 – CRUD básicos** de la serie de 20 pro
 
 ---
 
-## Estructura sugerida de carpetas
 
