@@ -36,7 +36,7 @@ Cada proyecto está estructurado para practicar:
 
 ## ⚡ Flujo de publicación y uso
 
-1. Cada semana se liberará un nuevo proyecto.  
+1. Cada semana se liberarán dos nuevos proyectos.  
 2. Clona únicamente la carpeta del proyecto activo si quieres practicar.  
 3. Compara con la carpeta `solution` para ver la implementación completa y las buenas prácticas.  
 4. Sigue la serie progresiva para consolidar conocimientos paso a paso.
