@@ -3,6 +3,7 @@
 ## Objetivo
 Desarrollar un **CRUD completo de notas personales** utilizando **Spring Boot**, **JPA** y **REST API**, aplicando buenas prácticas de validación y manejo de excepciones.  
 Este proyecto pertenece al **Módulo 1 – CRUD básicos** de la serie de 20 proyectos Spring Boot.
+**CREA LA BASE DE DATOS EN POSTGRESQL 'notas' PARA PODER PROBARLO. EN EL resources<application.yml está el username, por defecto "postgresql", y password "admin"**
 
 ---
 
